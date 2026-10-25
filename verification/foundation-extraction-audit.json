@@ -1,0 +1,1966 @@
+{
+  "pdf_sha256": "24f1233fc49789deaab565f6f1b1793e4b56ad502fa8b6b68e1b073823e16ba6",
+  "pages": [
+    {
+      "page": 6,
+      "body_glyphs": 992,
+      "assigned": 992,
+      "presentation_caption_glyphs": 0,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 7,
+      "body_glyphs": 1101,
+      "assigned": 1065,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 8,
+      "body_glyphs": 1007,
+      "assigned": 953,
+      "presentation_caption_glyphs": 54,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 9,
+      "body_glyphs": 837,
+      "assigned": 819,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 10,
+      "body_glyphs": 908,
+      "assigned": 872,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 11,
+      "body_glyphs": 869,
+      "assigned": 833,
+      "presentation_caption_glyphs": 36,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 12,
+      "body_glyphs": 660,
+      "assigned": 642,
+      "presentation_caption_glyphs": 18,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 13,
+      "body_glyphs": 546,
+      "assigned": 528,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 14,
+      "body_glyphs": 352,
+      "assigned": 334,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 15,
+      "body_glyphs": 784,
+      "assigned": 748,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 16,
+      "body_glyphs": 952,
+      "assigned": 931,
+      "presentation_caption_glyphs": 21,
+      "tables": 2,
+      "images": 0
+    },
+    {
+      "page": 17,
+      "body_glyphs": 979,
+      "assigned": 979,
+      "presentation_caption_glyphs": 0,
+      "tables": 2,
+      "images": 0
+    },
+    {
+      "page": 18,
+      "body_glyphs": 1128,
+      "assigned": 1110,
+      "presentation_caption_glyphs": 18,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 19,
+      "body_glyphs": 1121,
+      "assigned": 1103,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 20,
+      "body_glyphs": 1135,
+      "assigned": 1099,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 21,
+      "body_glyphs": 1431,
+      "assigned": 1395,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 22,
+      "body_glyphs": 1297,
+      "assigned": 1297,
+      "presentation_caption_glyphs": 0,
+      "tables": 2,
+      "images": 0
+    },
+    {
+      "page": 23,
+      "body_glyphs": 685,
+      "assigned": 631,
+      "presentation_caption_glyphs": 54,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 24,
+      "body_glyphs": 753,
+      "assigned": 678,
+      "presentation_caption_glyphs": 75,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 25,
+      "body_glyphs": 976,
+      "assigned": 922,
+      "presentation_caption_glyphs": 54,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 26,
+      "body_glyphs": 1011,
+      "assigned": 1011,
+      "presentation_caption_glyphs": 0,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 27,
+      "body_glyphs": 194,
+      "assigned": 194,
+      "presentation_caption_glyphs": 0,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 28,
+      "body_glyphs": 893,
+      "assigned": 839,
+      "presentation_caption_glyphs": 54,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 29,
+      "body_glyphs": 937,
+      "assigned": 919,
+      "presentation_caption_glyphs": 18,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 30,
+      "body_glyphs": 1264,
+      "assigned": 1243,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 31,
+      "body_glyphs": 1107,
+      "assigned": 1089,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 32,
+      "body_glyphs": 924,
+      "assigned": 906,
+      "presentation_caption_glyphs": 18,
+      "tables": 2,
+      "images": 0
+    },
+    {
+      "page": 33,
+      "body_glyphs": 889,
+      "assigned": 853,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 34,
+      "body_glyphs": 813,
+      "assigned": 777,
+      "presentation_caption_glyphs": 36,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 35,
+      "body_glyphs": 981,
+      "assigned": 945,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 36,
+      "body_glyphs": 842,
+      "assigned": 842,
+      "presentation_caption_glyphs": 0,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 37,
+      "body_glyphs": 741,
+      "assigned": 741,
+      "presentation_caption_glyphs": 0,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 38,
+      "body_glyphs": 556,
+      "assigned": 556,
+      "presentation_caption_glyphs": 0,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 39,
+      "body_glyphs": 1225,
+      "assigned": 1189,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 40,
+      "body_glyphs": 670,
+      "assigned": 649,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 41,
+      "body_glyphs": 948,
+      "assigned": 912,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 42,
+      "body_glyphs": 1289,
+      "assigned": 1268,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 43,
+      "body_glyphs": 983,
+      "assigned": 983,
+      "presentation_caption_glyphs": 0,
+      "tables": 2,
+      "images": 0
+    },
+    {
+      "page": 44,
+      "body_glyphs": 1210,
+      "assigned": 1174,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 45,
+      "body_glyphs": 1109,
+      "assigned": 1073,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 46,
+      "body_glyphs": 1014,
+      "assigned": 975,
+      "presentation_caption_glyphs": 39,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 47,
+      "body_glyphs": 973,
+      "assigned": 916,
+      "presentation_caption_glyphs": 57,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 48,
+      "body_glyphs": 1236,
+      "assigned": 1218,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 49,
+      "body_glyphs": 925,
+      "assigned": 907,
+      "presentation_caption_glyphs": 18,
+      "tables": 2,
+      "images": 0
+    },
+    {
+      "page": 50,
+      "body_glyphs": 1554,
+      "assigned": 1533,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 51,
+      "body_glyphs": 1131,
+      "assigned": 1095,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 52,
+      "body_glyphs": 1383,
+      "assigned": 1365,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 53,
+      "body_glyphs": 1027,
+      "assigned": 1009,
+      "presentation_caption_glyphs": 18,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 54,
+      "body_glyphs": 1025,
+      "assigned": 1025,
+      "presentation_caption_glyphs": 0,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 55,
+      "body_glyphs": 992,
+      "assigned": 974,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 56,
+      "body_glyphs": 913,
+      "assigned": 859,
+      "presentation_caption_glyphs": 54,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 57,
+      "body_glyphs": 1039,
+      "assigned": 982,
+      "presentation_caption_glyphs": 57,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 58,
+      "body_glyphs": 841,
+      "assigned": 784,
+      "presentation_caption_glyphs": 57,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 59,
+      "body_glyphs": 1155,
+      "assigned": 1119,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 60,
+      "body_glyphs": 1222,
+      "assigned": 1183,
+      "presentation_caption_glyphs": 39,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 61,
+      "body_glyphs": 1050,
+      "assigned": 1050,
+      "presentation_caption_glyphs": 0,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 62,
+      "body_glyphs": 780,
+      "assigned": 762,
+      "presentation_caption_glyphs": 18,
+      "tables": 2,
+      "images": 0
+    },
+    {
+      "page": 63,
+      "body_glyphs": 1324,
+      "assigned": 1285,
+      "presentation_caption_glyphs": 39,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 64,
+      "body_glyphs": 955,
+      "assigned": 919,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 65,
+      "body_glyphs": 1374,
+      "assigned": 1356,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 66,
+      "body_glyphs": 1816,
+      "assigned": 1795,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 67,
+      "body_glyphs": 1366,
+      "assigned": 1345,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 68,
+      "body_glyphs": 1698,
+      "assigned": 1680,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 69,
+      "body_glyphs": 1555,
+      "assigned": 1516,
+      "presentation_caption_glyphs": 39,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 70,
+      "body_glyphs": 1685,
+      "assigned": 1664,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 71,
+      "body_glyphs": 1176,
+      "assigned": 1122,
+      "presentation_caption_glyphs": 54,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 72,
+      "body_glyphs": 845,
+      "assigned": 788,
+      "presentation_caption_glyphs": 57,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 73,
+      "body_glyphs": 637,
+      "assigned": 637,
+      "presentation_caption_glyphs": 0,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 74,
+      "body_glyphs": 1061,
+      "assigned": 1043,
+      "presentation_caption_glyphs": 18,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 75,
+      "body_glyphs": 1051,
+      "assigned": 1051,
+      "presentation_caption_glyphs": 0,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 76,
+      "body_glyphs": 967,
+      "assigned": 949,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 77,
+      "body_glyphs": 1037,
+      "assigned": 1001,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 78,
+      "body_glyphs": 605,
+      "assigned": 569,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 79,
+      "body_glyphs": 870,
+      "assigned": 834,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 80,
+      "body_glyphs": 906,
+      "assigned": 867,
+      "presentation_caption_glyphs": 39,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 81,
+      "body_glyphs": 1017,
+      "assigned": 1017,
+      "presentation_caption_glyphs": 0,
+      "tables": 2,
+      "images": 0
+    },
+    {
+      "page": 82,
+      "body_glyphs": 911,
+      "assigned": 893,
+      "presentation_caption_glyphs": 18,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 83,
+      "body_glyphs": 873,
+      "assigned": 834,
+      "presentation_caption_glyphs": 39,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 84,
+      "body_glyphs": 1074,
+      "assigned": 1038,
+      "presentation_caption_glyphs": 36,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 85,
+      "body_glyphs": 1167,
+      "assigned": 1146,
+      "presentation_caption_glyphs": 21,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 86,
+      "body_glyphs": 1117,
+      "assigned": 1081,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 87,
+      "body_glyphs": 959,
+      "assigned": 923,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 88,
+      "body_glyphs": 1047,
+      "assigned": 990,
+      "presentation_caption_glyphs": 57,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 89,
+      "body_glyphs": 639,
+      "assigned": 600,
+      "presentation_caption_glyphs": 39,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 90,
+      "body_glyphs": 1037,
+      "assigned": 1001,
+      "presentation_caption_glyphs": 36,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 91,
+      "body_glyphs": 1042,
+      "assigned": 1021,
+      "presentation_caption_glyphs": 21,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 92,
+      "body_glyphs": 927,
+      "assigned": 891,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 93,
+      "body_glyphs": 1166,
+      "assigned": 1130,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 94,
+      "body_glyphs": 1153,
+      "assigned": 1117,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 95,
+      "body_glyphs": 1218,
+      "assigned": 1161,
+      "presentation_caption_glyphs": 57,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 96,
+      "body_glyphs": 1102,
+      "assigned": 1102,
+      "presentation_caption_glyphs": 0,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 97,
+      "body_glyphs": 1297,
+      "assigned": 1297,
+      "presentation_caption_glyphs": 0,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 98,
+      "body_glyphs": 699,
+      "assigned": 699,
+      "presentation_caption_glyphs": 0,
+      "tables": 2,
+      "images": 0
+    },
+    {
+      "page": 99,
+      "body_glyphs": 837,
+      "assigned": 837,
+      "presentation_caption_glyphs": 0,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 100,
+      "body_glyphs": 1385,
+      "assigned": 1367,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 101,
+      "body_glyphs": 1647,
+      "assigned": 1626,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 102,
+      "body_glyphs": 1406,
+      "assigned": 1385,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 103,
+      "body_glyphs": 1644,
+      "assigned": 1626,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 104,
+      "body_glyphs": 909,
+      "assigned": 834,
+      "presentation_caption_glyphs": 75,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 105,
+      "body_glyphs": 928,
+      "assigned": 889,
+      "presentation_caption_glyphs": 39,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 106,
+      "body_glyphs": 406,
+      "assigned": 406,
+      "presentation_caption_glyphs": 0,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 107,
+      "body_glyphs": 960,
+      "assigned": 942,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 108,
+      "body_glyphs": 1003,
+      "assigned": 949,
+      "presentation_caption_glyphs": 54,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 109,
+      "body_glyphs": 1133,
+      "assigned": 1076,
+      "presentation_caption_glyphs": 57,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 110,
+      "body_glyphs": 1058,
+      "assigned": 1058,
+      "presentation_caption_glyphs": 0,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 111,
+      "body_glyphs": 924,
+      "assigned": 906,
+      "presentation_caption_glyphs": 18,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 112,
+      "body_glyphs": 1383,
+      "assigned": 1365,
+      "presentation_caption_glyphs": 18,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 113,
+      "body_glyphs": 1534,
+      "assigned": 1498,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 114,
+      "body_glyphs": 1627,
+      "assigned": 1606,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 115,
+      "body_glyphs": 1031,
+      "assigned": 1013,
+      "presentation_caption_glyphs": 18,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 116,
+      "body_glyphs": 826,
+      "assigned": 805,
+      "presentation_caption_glyphs": 21,
+      "tables": 3,
+      "images": 0
+    },
+    {
+      "page": 117,
+      "body_glyphs": 1293,
+      "assigned": 1239,
+      "presentation_caption_glyphs": 54,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 118,
+      "body_glyphs": 1011,
+      "assigned": 993,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 119,
+      "body_glyphs": 1136,
+      "assigned": 1118,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 120,
+      "body_glyphs": 823,
+      "assigned": 805,
+      "presentation_caption_glyphs": 18,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 121,
+      "body_glyphs": 1340,
+      "assigned": 1301,
+      "presentation_caption_glyphs": 39,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 122,
+      "body_glyphs": 1211,
+      "assigned": 1157,
+      "presentation_caption_glyphs": 54,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 123,
+      "body_glyphs": 1154,
+      "assigned": 1133,
+      "presentation_caption_glyphs": 21,
+      "tables": 2,
+      "images": 0
+    },
+    {
+      "page": 124,
+      "body_glyphs": 1036,
+      "assigned": 1000,
+      "presentation_caption_glyphs": 36,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 125,
+      "body_glyphs": 996,
+      "assigned": 996,
+      "presentation_caption_glyphs": 0,
+      "tables": 2,
+      "images": 0
+    },
+    {
+      "page": 126,
+      "body_glyphs": 568,
+      "assigned": 550,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 127,
+      "body_glyphs": 1044,
+      "assigned": 990,
+      "presentation_caption_glyphs": 54,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 128,
+      "body_glyphs": 1356,
+      "assigned": 1299,
+      "presentation_caption_glyphs": 57,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 129,
+      "body_glyphs": 1291,
+      "assigned": 1255,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 130,
+      "body_glyphs": 1282,
+      "assigned": 1264,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 131,
+      "body_glyphs": 1087,
+      "assigned": 1051,
+      "presentation_caption_glyphs": 36,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 132,
+      "body_glyphs": 858,
+      "assigned": 840,
+      "presentation_caption_glyphs": 18,
+      "tables": 2,
+      "images": 0
+    },
+    {
+      "page": 133,
+      "body_glyphs": 1123,
+      "assigned": 1066,
+      "presentation_caption_glyphs": 57,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 134,
+      "body_glyphs": 1427,
+      "assigned": 1388,
+      "presentation_caption_glyphs": 39,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 135,
+      "body_glyphs": 1010,
+      "assigned": 989,
+      "presentation_caption_glyphs": 21,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 136,
+      "body_glyphs": 761,
+      "assigned": 761,
+      "presentation_caption_glyphs": 0,
+      "tables": 2,
+      "images": 0
+    },
+    {
+      "page": 137,
+      "body_glyphs": 1078,
+      "assigned": 1060,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 138,
+      "body_glyphs": 1143,
+      "assigned": 1122,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 139,
+      "body_glyphs": 1213,
+      "assigned": 1195,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 140,
+      "body_glyphs": 1325,
+      "assigned": 1286,
+      "presentation_caption_glyphs": 39,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 141,
+      "body_glyphs": 1281,
+      "assigned": 1260,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 142,
+      "body_glyphs": 1723,
+      "assigned": 1702,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 143,
+      "body_glyphs": 1261,
+      "assigned": 1222,
+      "presentation_caption_glyphs": 39,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 144,
+      "body_glyphs": 1702,
+      "assigned": 1681,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 145,
+      "body_glyphs": 1566,
+      "assigned": 1545,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 146,
+      "body_glyphs": 1282,
+      "assigned": 1261,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 147,
+      "body_glyphs": 1864,
+      "assigned": 1843,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 148,
+      "body_glyphs": 1445,
+      "assigned": 1424,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 149,
+      "body_glyphs": 1729,
+      "assigned": 1708,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 150,
+      "body_glyphs": 1372,
+      "assigned": 1333,
+      "presentation_caption_glyphs": 39,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 151,
+      "body_glyphs": 981,
+      "assigned": 924,
+      "presentation_caption_glyphs": 57,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 152,
+      "body_glyphs": 1023,
+      "assigned": 1005,
+      "presentation_caption_glyphs": 18,
+      "tables": 3,
+      "images": 0
+    },
+    {
+      "page": 153,
+      "body_glyphs": 957,
+      "assigned": 957,
+      "presentation_caption_glyphs": 0,
+      "tables": 2,
+      "images": 0
+    },
+    {
+      "page": 154,
+      "body_glyphs": 304,
+      "assigned": 304,
+      "presentation_caption_glyphs": 0,
+      "tables": 2,
+      "images": 0
+    },
+    {
+      "page": 155,
+      "body_glyphs": 944,
+      "assigned": 926,
+      "presentation_caption_glyphs": 18,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 156,
+      "body_glyphs": 1060,
+      "assigned": 1003,
+      "presentation_caption_glyphs": 57,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 157,
+      "body_glyphs": 881,
+      "assigned": 845,
+      "presentation_caption_glyphs": 36,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 158,
+      "body_glyphs": 908,
+      "assigned": 908,
+      "presentation_caption_glyphs": 0,
+      "tables": 2,
+      "images": 0
+    },
+    {
+      "page": 159,
+      "body_glyphs": 1251,
+      "assigned": 1197,
+      "presentation_caption_glyphs": 54,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 160,
+      "body_glyphs": 1088,
+      "assigned": 1052,
+      "presentation_caption_glyphs": 36,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 161,
+      "body_glyphs": 1139,
+      "assigned": 1103,
+      "presentation_caption_glyphs": 36,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 162,
+      "body_glyphs": 1091,
+      "assigned": 1055,
+      "presentation_caption_glyphs": 36,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 163,
+      "body_glyphs": 936,
+      "assigned": 879,
+      "presentation_caption_glyphs": 57,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 164,
+      "body_glyphs": 1187,
+      "assigned": 1133,
+      "presentation_caption_glyphs": 54,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 165,
+      "body_glyphs": 1189,
+      "assigned": 1153,
+      "presentation_caption_glyphs": 36,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 166,
+      "body_glyphs": 1066,
+      "assigned": 1048,
+      "presentation_caption_glyphs": 18,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 167,
+      "body_glyphs": 1132,
+      "assigned": 1078,
+      "presentation_caption_glyphs": 54,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 168,
+      "body_glyphs": 1397,
+      "assigned": 1361,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 169,
+      "body_glyphs": 1035,
+      "assigned": 996,
+      "presentation_caption_glyphs": 39,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 170,
+      "body_glyphs": 1030,
+      "assigned": 1030,
+      "presentation_caption_glyphs": 0,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 171,
+      "body_glyphs": 819,
+      "assigned": 765,
+      "presentation_caption_glyphs": 54,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 172,
+      "body_glyphs": 951,
+      "assigned": 933,
+      "presentation_caption_glyphs": 18,
+      "tables": 2,
+      "images": 0
+    },
+    {
+      "page": 173,
+      "body_glyphs": 1500,
+      "assigned": 1482,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 174,
+      "body_glyphs": 1180,
+      "assigned": 1162,
+      "presentation_caption_glyphs": 18,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 175,
+      "body_glyphs": 805,
+      "assigned": 805,
+      "presentation_caption_glyphs": 0,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 176,
+      "body_glyphs": 1138,
+      "assigned": 1102,
+      "presentation_caption_glyphs": 36,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 177,
+      "body_glyphs": 784,
+      "assigned": 730,
+      "presentation_caption_glyphs": 54,
+      "tables": 2,
+      "images": 0
+    },
+    {
+      "page": 178,
+      "body_glyphs": 727,
+      "assigned": 688,
+      "presentation_caption_glyphs": 39,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 179,
+      "body_glyphs": 954,
+      "assigned": 936,
+      "presentation_caption_glyphs": 18,
+      "tables": 3,
+      "images": 0
+    },
+    {
+      "page": 180,
+      "body_glyphs": 1337,
+      "assigned": 1337,
+      "presentation_caption_glyphs": 0,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 181,
+      "body_glyphs": 1146,
+      "assigned": 1128,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 182,
+      "body_glyphs": 1300,
+      "assigned": 1282,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 183,
+      "body_glyphs": 1479,
+      "assigned": 1461,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 184,
+      "body_glyphs": 1418,
+      "assigned": 1400,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 185,
+      "body_glyphs": 925,
+      "assigned": 889,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 186,
+      "body_glyphs": 1171,
+      "assigned": 1114,
+      "presentation_caption_glyphs": 57,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 187,
+      "body_glyphs": 1363,
+      "assigned": 1342,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 188,
+      "body_glyphs": 1734,
+      "assigned": 1713,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 189,
+      "body_glyphs": 1884,
+      "assigned": 1863,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 190,
+      "body_glyphs": 1338,
+      "assigned": 1320,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 191,
+      "body_glyphs": 1314,
+      "assigned": 1293,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 192,
+      "body_glyphs": 1788,
+      "assigned": 1767,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 193,
+      "body_glyphs": 1170,
+      "assigned": 1131,
+      "presentation_caption_glyphs": 39,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 194,
+      "body_glyphs": 1172,
+      "assigned": 1133,
+      "presentation_caption_glyphs": 39,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 195,
+      "body_glyphs": 1632,
+      "assigned": 1611,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 196,
+      "body_glyphs": 1590,
+      "assigned": 1569,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 197,
+      "body_glyphs": 1444,
+      "assigned": 1423,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 198,
+      "body_glyphs": 1689,
+      "assigned": 1668,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 199,
+      "body_glyphs": 1559,
+      "assigned": 1538,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 200,
+      "body_glyphs": 1578,
+      "assigned": 1557,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 201,
+      "body_glyphs": 1344,
+      "assigned": 1308,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 202,
+      "body_glyphs": 914,
+      "assigned": 896,
+      "presentation_caption_glyphs": 18,
+      "tables": 2,
+      "images": 0
+    },
+    {
+      "page": 203,
+      "body_glyphs": 1215,
+      "assigned": 1215,
+      "presentation_caption_glyphs": 0,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 204,
+      "body_glyphs": 991,
+      "assigned": 955,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 205,
+      "body_glyphs": 1238,
+      "assigned": 1181,
+      "presentation_caption_glyphs": 57,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 206,
+      "body_glyphs": 1227,
+      "assigned": 1170,
+      "presentation_caption_glyphs": 57,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 207,
+      "body_glyphs": 1120,
+      "assigned": 1099,
+      "presentation_caption_glyphs": 21,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 208,
+      "body_glyphs": 904,
+      "assigned": 850,
+      "presentation_caption_glyphs": 54,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 209,
+      "body_glyphs": 1129,
+      "assigned": 1108,
+      "presentation_caption_glyphs": 21,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 210,
+      "body_glyphs": 1130,
+      "assigned": 1094,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 211,
+      "body_glyphs": 776,
+      "assigned": 776,
+      "presentation_caption_glyphs": 0,
+      "tables": 2,
+      "images": 0
+    },
+    {
+      "page": 212,
+      "body_glyphs": 961,
+      "assigned": 925,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 213,
+      "body_glyphs": 1380,
+      "assigned": 1344,
+      "presentation_caption_glyphs": 36,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 214,
+      "body_glyphs": 1128,
+      "assigned": 1110,
+      "presentation_caption_glyphs": 18,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 215,
+      "body_glyphs": 930,
+      "assigned": 894,
+      "presentation_caption_glyphs": 36,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 216,
+      "body_glyphs": 955,
+      "assigned": 916,
+      "presentation_caption_glyphs": 39,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 217,
+      "body_glyphs": 838,
+      "assigned": 802,
+      "presentation_caption_glyphs": 36,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 218,
+      "body_glyphs": 1026,
+      "assigned": 1008,
+      "presentation_caption_glyphs": 18,
+      "tables": 2,
+      "images": 0
+    },
+    {
+      "page": 219,
+      "body_glyphs": 1041,
+      "assigned": 1023,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 220,
+      "body_glyphs": 860,
+      "assigned": 824,
+      "presentation_caption_glyphs": 36,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 221,
+      "body_glyphs": 931,
+      "assigned": 913,
+      "presentation_caption_glyphs": 18,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 222,
+      "body_glyphs": 929,
+      "assigned": 929,
+      "presentation_caption_glyphs": 0,
+      "tables": 2,
+      "images": 0
+    },
+    {
+      "page": 223,
+      "body_glyphs": 1129,
+      "assigned": 1111,
+      "presentation_caption_glyphs": 18,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 224,
+      "body_glyphs": 848,
+      "assigned": 809,
+      "presentation_caption_glyphs": 39,
+      "tables": 2,
+      "images": 0
+    },
+    {
+      "page": 225,
+      "body_glyphs": 1470,
+      "assigned": 1452,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 226,
+      "body_glyphs": 1059,
+      "assigned": 1059,
+      "presentation_caption_glyphs": 0,
+      "tables": 2,
+      "images": 0
+    },
+    {
+      "page": 227,
+      "body_glyphs": 489,
+      "assigned": 471,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 228,
+      "body_glyphs": 1091,
+      "assigned": 1073,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 229,
+      "body_glyphs": 1158,
+      "assigned": 1122,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 230,
+      "body_glyphs": 908,
+      "assigned": 872,
+      "presentation_caption_glyphs": 36,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 231,
+      "body_glyphs": 727,
+      "assigned": 727,
+      "presentation_caption_glyphs": 0,
+      "tables": 3,
+      "images": 0
+    },
+    {
+      "page": 232,
+      "body_glyphs": 742,
+      "assigned": 742,
+      "presentation_caption_glyphs": 0,
+      "tables": 1,
+      "images": 0
+    },
+    {
+      "page": 233,
+      "body_glyphs": 1241,
+      "assigned": 1205,
+      "presentation_caption_glyphs": 36,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 234,
+      "body_glyphs": 1344,
+      "assigned": 1323,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 235,
+      "body_glyphs": 1778,
+      "assigned": 1757,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 236,
+      "body_glyphs": 1993,
+      "assigned": 1972,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 237,
+      "body_glyphs": 1269,
+      "assigned": 1230,
+      "presentation_caption_glyphs": 39,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 238,
+      "body_glyphs": 1506,
+      "assigned": 1485,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 239,
+      "body_glyphs": 1391,
+      "assigned": 1370,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 240,
+      "body_glyphs": 1687,
+      "assigned": 1666,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 241,
+      "body_glyphs": 1620,
+      "assigned": 1599,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 242,
+      "body_glyphs": 1460,
+      "assigned": 1442,
+      "presentation_caption_glyphs": 18,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 243,
+      "body_glyphs": 1003,
+      "assigned": 964,
+      "presentation_caption_glyphs": 39,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 244,
+      "body_glyphs": 1396,
+      "assigned": 1375,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 245,
+      "body_glyphs": 1617,
+      "assigned": 1596,
+      "presentation_caption_glyphs": 21,
+      "tables": 0,
+      "images": 0
+    },
+    {
+      "page": 246,
+      "body_glyphs": 1075,
+      "assigned": 1036,
+      "presentation_caption_glyphs": 39,
+      "tables": 2,
+      "images": 0
+    },
+    {
+      "page": 247,
+      "body_glyphs": 822,
+      "assigned": 822,
+      "presentation_caption_glyphs": 0,
+      "tables": 2,
+      "images": 0
+    },
+    {
+      "page": 248,
+      "body_glyphs": 1033,
+      "assigned": 1033,
+      "presentation_caption_glyphs": 0,
+      "tables": 1,
+      "images": 0
+    }
+  ],
+  "chapters": [
+    "第 0 章 开发环境搭建",
+    "第 1 章 Rust 基础语法与类型",
+    "第 2 章 所有权、借用与生命周期",
+    "第 3 章 结构体、枚举与模式匹配",
+    "第 4 章 错误处理",
+    "第 5 章 Trait 与泛型"
+  ],
+  "block_counts": {
+    "h1": 6,
+    "p": 1067,
+    "h2": 51,
+    "h3": 303,
+    "table": 126,
+    "code": 260
+  },
+  "scope": "all243 body pages: every glyph assigned to table/prose/code or explicit presentation caption; line-number gutter removed, code numbering continuous across PDF page breaks"
+}

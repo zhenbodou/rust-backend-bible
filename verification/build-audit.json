@@ -1,0 +1,254 @@
+{
+  "mdbook_version": "0.5.4",
+  "chapters": [
+    {
+      "chapter": 0,
+      "code_blocks": 30,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 1,
+      "code_blocks": 52,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 2,
+      "code_blocks": 36,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 3,
+      "code_blocks": 46,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 4,
+      "code_blocks": 55,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 5,
+      "code_blocks": 41,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 6,
+      "code_blocks": 35,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 7,
+      "code_blocks": 28,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 8,
+      "code_blocks": 29,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 9,
+      "code_blocks": 14,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 10,
+      "code_blocks": 27,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 11,
+      "code_blocks": 31,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 12,
+      "code_blocks": 39,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 13,
+      "code_blocks": 35,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 14,
+      "code_blocks": 76,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 15,
+      "code_blocks": 67,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 16,
+      "code_blocks": 69,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 17,
+      "code_blocks": 84,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 18,
+      "code_blocks": 57,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 19,
+      "code_blocks": 31,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 20,
+      "code_blocks": 21,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 21,
+      "code_blocks": 14,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 22,
+      "code_blocks": 12,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 23,
+      "code_blocks": 21,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 24,
+      "code_blocks": 23,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 25,
+      "code_blocks": 11,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 26,
+      "code_blocks": 17,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 27,
+      "code_blocks": 19,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 28,
+      "code_blocks": 17,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 29,
+      "code_blocks": 22,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 30,
+      "code_blocks": 14,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 31,
+      "code_blocks": 16,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 32,
+      "code_blocks": 10,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 33,
+      "code_blocks": 15,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 34,
+      "code_blocks": 22,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 35,
+      "code_blocks": 16,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 36,
+      "code_blocks": 21,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 37,
+      "code_blocks": 29,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 38,
+      "code_blocks": 28,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 39,
+      "code_blocks": 20,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 40,
+      "code_blocks": 31,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 41,
+      "code_blocks": 16,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 42,
+      "code_blocks": 14,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 43,
+      "code_blocks": 8,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 44,
+      "code_blocks": 14,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 45,
+      "code_blocks": 10,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 46,
+      "code_blocks": 14,
+      "exact_code_payloads": true
+    },
+    {
+      "chapter": 47,
+      "code_blocks": 15,
+      "exact_code_payloads": true
+    }
+  ],
+  "total_code_blocks": 1372,
+  "all_rendered_code_bodies_match": true,
+  "terminal_newline_normalization_only": true,
+  "local_html_pages": 52,
+  "local_links_checked": 4470,
+  "broken_local_links": [],
+  "foundation_pages_glyph_accounted": 243,
+  "source_pdf_unchanged": true,
+  "scope": "conversion and HTML fidelity; does not claim engineering tests were rerun"
+}

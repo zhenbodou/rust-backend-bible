@@ -1,0 +1,127 @@
+[
+  {
+    "page": 27,
+    "url": "https://doc.rust-lang.org/cargo/reference/specifying-dependencies.html",
+    "label": "Cargo 依赖要求"
+  },
+  {
+    "page": 27,
+    "url": "https://doc.rust-lang.org/cargo/guide/cargo-toml-vs-cargo-lock.html",
+    "label": "Cargo.toml 与 Cargo.lock。"
+  },
+  {
+    "page": 27,
+    "url": "https://rust-lang.github.io/rustup/overrides.html",
+    "label": "rustup 项目覆盖配置"
+  },
+  {
+    "page": 27,
+    "url": "https://docs.docker.com/engine/install/ubuntu/",
+    "label": "Docker Engine 的 Ubuntu 安装说明，"
+  },
+  {
+    "page": 27,
+    "url": "https://rust-analyzer.github.io/book/configuration.html",
+    "label": "rust-analyzer 配"
+  },
+  {
+    "page": 27,
+    "url": "https://rust-analyzer.github.io/book/configuration.html",
+    "label": "置说明。"
+  },
+  {
+    "page": 73,
+    "url": "https://doc.rust-lang.org/std/vec/struct.Vec.html",
+    "label": "Vec 的保证，"
+  },
+  {
+    "page": 73,
+    "url": "https://doc.rust-lang.org/reference/destructors.html",
+    "label": "Rust Reference：析构"
+  },
+  {
+    "page": 73,
+    "url": "https://doc.rust-lang.org/cargo/reference/workspaces.html",
+    "label": "Cargo 工作区说明。"
+  },
+  {
+    "page": 73,
+    "url": "https://doc.rust-lang.org/std/primitive.f64.html",
+    "label": "f64 文档"
+  },
+  {
+    "page": 106,
+    "url": "https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html",
+    "label": "Rust Book：所有权；"
+  },
+  {
+    "page": 106,
+    "url": "https://doc.rust-lang.org/reference/destructors.html",
+    "label": "Rust Reference：析构"
+  },
+  {
+    "page": 106,
+    "url": "https://docs.rs/sqlx/latest/sqlx/struct.Transaction.html",
+    "label": "SQLx Transaction"
+  },
+  {
+    "page": 154,
+    "url": "https://doc.rust-lang.org/reference/type-layout.html",
+    "label": "Rust Reference：类型布局"
+  },
+  {
+    "page": 154,
+    "url": "https://doc.rust-lang.org/std/option/index.html",
+    "label": "Option 文档。"
+  },
+  {
+    "page": 154,
+    "url": "https://doc.rust-lang.org/reference/patterns.html",
+    "label": "Rust Reference：模式"
+  },
+  {
+    "page": 181,
+    "url": "https://docs.rs/tower-http/latest/tower_http/catch_panic/index.html",
+    "label": "tower-http：CatchPanic"
+  },
+  {
+    "page": 182,
+    "url": "https://doc.rust-lang.org/std/sync/struct.Mutex.html",
+    "label": "。Rust 标准库：Mutex 的中"
+  },
+  {
+    "page": 182,
+    "url": "https://doc.rust-lang.org/std/sync/struct.Mutex.html",
+    "label": "毒机制"
+  },
+  {
+    "page": 183,
+    "url": "https://doc.rust-lang.org/std/macro.debug_assert.html",
+    "label": "。Rust 标准库："
+  },
+  {
+    "page": 183,
+    "url": "https://doc.rust-lang.org/std/macro.debug_assert.html",
+    "label": "debug_assert!"
+  },
+  {
+    "page": 248,
+    "url": "https://doc.rust-lang.org/reference/items/traits.html#dyn-compatibility",
+    "label": "Rust Reference：trait 的 dyn 兼容性，"
+  },
+  {
+    "page": 248,
+    "url": "https://doc.rust-lang.org/reference/items/implementations.html#trait-implementation-coherence",
+    "label": "trait 实现一致性。"
+  },
+  {
+    "page": 248,
+    "url": "https://doc.rust-lang.org/std/ops/trait.Fn.html",
+    "label": "标准库 Fn"
+  },
+  {
+    "page": 248,
+    "url": "https://rust-lang.github.io/api-guidelines/predictability.html",
+    "label": "Rust API Guidelines"
+  }
+]

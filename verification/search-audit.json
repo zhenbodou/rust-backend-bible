@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "query": "所有权",
+      "matches": 207
+    },
+    {
+      "query": "库存",
+      "matches": 433
+    },
+    {
+      "query": "PostgreSQL",
+      "matches": 269
+    },
+    {
+      "query": "Kafka",
+      "matches": 206
+    },
+    {
+      "query": "幂等",
+      "matches": 300
+    },
+    {
+      "query": "分布式",
+      "matches": 97
+    },
+    {
+      "query": "库存 Kafka",
+      "matches": 33
+    }
+  ],
+  "absent_query_matches": 0,
+  "scope": "actual built local document store, Chinese substring and English search paths; browser UI also verified Chinese input and navigation"
+}

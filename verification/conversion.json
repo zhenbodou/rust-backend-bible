@@ -1,0 +1,495 @@
+{
+  "source_pdf_sha256": "24f1233fc49789deaab565f6f1b1793e4b56ad502fa8b6b68e1b073823e16ba6",
+  "chapters": [
+    {
+      "chapter": 0,
+      "title": "第 0 章 开发环境搭建",
+      "path": "src/chapters/ch00.md",
+      "sha256": "281a5e21a2108499c59ebbb82827d64ee1655788f1fd00f087cdf4c962d1d5dc",
+      "code_blocks": 30,
+      "code_payload_sha256": "0cb58d746b2749cd603e9bdd6f2643d962bcd48ba15f248247a0bc48a94443dc",
+      "code_bodies_preserved": true,
+      "source": "PDF glyph recovery"
+    },
+    {
+      "chapter": 1,
+      "title": "第 1 章 Rust 基础语法与类型",
+      "path": "src/chapters/ch01.md",
+      "sha256": "e627260e6e97c6bda3a233defd0b67e101ebaad3f61362d5bd850c3ceb08e492",
+      "code_blocks": 52,
+      "code_payload_sha256": "9fb1cb7b7a36f3576321517b6c4b7d5a539819e553484629f2d58fa0317f12f5",
+      "code_bodies_preserved": true,
+      "source": "PDF glyph recovery"
+    },
+    {
+      "chapter": 2,
+      "title": "第 2 章 所有权、借用与生命周期",
+      "path": "src/chapters/ch02.md",
+      "sha256": "42f35c9732058b43fc8a5eec9b874d9f39a4d0deb86af615453e4c10c5007cae",
+      "code_blocks": 36,
+      "code_payload_sha256": "d64d23bf23d7f4954fd9b374b0855bc3227999e08275380f62bd494019f5b33a",
+      "code_bodies_preserved": true,
+      "source": "PDF glyph recovery"
+    },
+    {
+      "chapter": 3,
+      "title": "第 3 章 结构体、枚举与模式匹配",
+      "path": "src/chapters/ch03.md",
+      "sha256": "442278d191bef016bc72fb336d22bbfe35b941813ff5e3c1bea58f67006d990e",
+      "code_blocks": 46,
+      "code_payload_sha256": "f0d1302d274a62e18435b9098639b7579b440fb6b68b3f4cc0acdaad867fb4f8",
+      "code_bodies_preserved": true,
+      "source": "PDF glyph recovery"
+    },
+    {
+      "chapter": 4,
+      "title": "第 4 章 错误处理",
+      "path": "src/chapters/ch04.md",
+      "sha256": "a37e42d44c5ac1613cb86677bff28f19c46c0930088371913bb0b064f05cdc7b",
+      "code_blocks": 55,
+      "code_payload_sha256": "7f9efa98d9eb5baf97d0b7c9922dd7d2c2e2ff81cbf5cd2fe03ed93b7760515a",
+      "code_bodies_preserved": true,
+      "source": "PDF glyph recovery"
+    },
+    {
+      "chapter": 5,
+      "title": "第 5 章 Trait 与泛型",
+      "path": "src/chapters/ch05.md",
+      "sha256": "7bf0d3828e9b91c1f682b6e1dad067cb9855d7f13b507eeeeb8751d466a54a2c",
+      "code_blocks": 41,
+      "code_payload_sha256": "be826f99ff564f8f13e305ee5fd1234e1438943a5d6b09db347dc1f8d3e4d92a",
+      "code_bodies_preserved": true,
+      "source": "PDF glyph recovery"
+    },
+    {
+      "chapter": 6,
+      "title": "第 6 章 集合、迭代器与闭包实战",
+      "path": "src/chapters/ch06.md",
+      "sha256": "6d9febea6b9d6a77281396c75d60fa45e900219f10c8425e58787f97d93809a4",
+      "code_blocks": 35,
+      "code_payload_sha256": "16fe94d4ebf563d953ec2d7a72921506c0ca759828499c281e642471f6433d44",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 7,
+      "title": "第 7 章 智能指针与多线程并发",
+      "path": "src/chapters/ch07.md",
+      "sha256": "e516ae39a16bd8bfb41efd309834d4c196097ac769303102376e33da448f70da",
+      "code_blocks": 28,
+      "code_payload_sha256": "1d60b0204c49a392eb48b5ad539b91453240c30db482ca5f08a4f73ce1a624ff",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 8,
+      "title": "第 8 章 模块、包与 Cargo 深入",
+      "path": "src/chapters/ch08.md",
+      "sha256": "5babc8d7a2c8e99efe90197bff307dc9d2a1e5d3712eb4dee8573970ce19ea67",
+      "code_blocks": 29,
+      "code_payload_sha256": "934bf94f7cdf6d41490225067358dba9b89e9d2b343711c6bd0181813485baca",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 9,
+      "title": "第 9 章 HTTP、REST 与 JSON 全解",
+      "path": "src/chapters/ch09.md",
+      "sha256": "c61c6172f1a8b24c2ea95eaa9e8b069d7c10f05048e2181549e2964a79d2494f",
+      "code_blocks": 14,
+      "code_payload_sha256": "3b1e70b46a15d2a09f7e10c94d1ae9a2cfe69526786630e0c52522d6f56badd2",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 10,
+      "title": "第 10 章 serde 与 serde_json 详解",
+      "path": "src/chapters/ch10.md",
+      "sha256": "0f9ea6010014aa4a6c90b2d4dfa4b74c2f9fc4e2288d1a3125960b8431b02040",
+      "code_blocks": 27,
+      "code_payload_sha256": "60639d4ffbaf3142f9eb8c772320f0a55c354466e9c60db1e50581e55af79023",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 11,
+      "title": "第 11 章 异步编程与 Tokio 详解",
+      "path": "src/chapters/ch11.md",
+      "sha256": "a9355673003c7420c5089ba1955943680aaed62be28a5a6a6a3e9150441c169a",
+      "code_blocks": 31,
+      "code_payload_sha256": "09083a79effd64ba2ad1d56dd17919dcfbb2cc4be30b63a68266079e3f6f2d90",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 12,
+      "title": "第 12 章 Axum 详解",
+      "path": "src/chapters/ch12.md",
+      "sha256": "0e652e079af88f4af95afcb138c15cb087e74b10468d2a9b9c54193c8ad7466c",
+      "code_blocks": 39,
+      "code_payload_sha256": "e3d1770eeefdf035e369fc61eb69c4fcdc4324a11469ab13bd36980da2cf2077",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 13,
+      "title": "第 13 章 PostgreSQL 从安装到精通",
+      "path": "src/chapters/ch13.md",
+      "sha256": "6138ed9de2bf6e0df717d2b26b199918b7e4355a49090336af99fd95bdb427b5",
+      "code_blocks": 35,
+      "code_payload_sha256": "2dc67564a4c39458edcc072dc5dd867f0ec7a0dfc2b70c553c0dbe3adff7ac86",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 14,
+      "title": "第 14 章 SQLx 详解",
+      "path": "src/chapters/ch14.md",
+      "sha256": "e88613df1c50901ed79fdb957caf497cd5807c979d5e7f40599ba7d1a45b1fa6",
+      "code_blocks": 76,
+      "code_payload_sha256": "65db1d044ac887a21f737ccf48a429a63d0dfb1620ff9e87609f96fd76a4af7b",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 15,
+      "title": "第 15 章 工程化：配置、日志与分层架构",
+      "path": "src/chapters/ch15.md",
+      "sha256": "4d3e3d97275b28ab7dce66b7f2f78ecde98e4b43c688ab891c100a3d442f64f7",
+      "code_blocks": 67,
+      "code_payload_sha256": "618972b5c70aaab34932b98db3cb12790aa1aa3ed657fc81c871f47b2c842283",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 16,
+      "title": "第 16 章 认证与授权",
+      "path": "src/chapters/ch16.md",
+      "sha256": "626d4f8976cf8873bba6cc821c3c0b99cbcd7fb799cb60cce9b35cde23087a15",
+      "code_blocks": 69,
+      "code_payload_sha256": "fb6d3b4d8e52473477f0136c01d6260fee5d0a258ee40120d81634f17adcb874",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 17,
+      "title": "第 17 章 测试",
+      "path": "src/chapters/ch17.md",
+      "sha256": "e47c3fd3b8357cd6dc983ec3217748215c8b3e2950feb3b3b973520d8a7ad729",
+      "code_blocks": 84,
+      "code_payload_sha256": "599a33bae299f581b8c618bfac3ac183d8449b098a346cdeca86314e4edb3e02",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 18,
+      "title": "第 18 章 Redis 从安装到精通 + redis-rs",
+      "path": "src/chapters/ch18.md",
+      "sha256": "39d8ed6632d5722df306c32b71e77b307b4e4aeeef1c43641e29d7a727364271",
+      "code_blocks": 57,
+      "code_payload_sha256": "032460b31337858997ae40f148c3a342d377553144cb69463e6d13d73831bb16",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 19,
+      "title": "第 19 章 Git 与 GitHub：协作与工程历史",
+      "path": "src/chapters/ch19.md",
+      "sha256": "c01517a6e32a1fb77d03e94f49afcf0405bb25a1f128231311b35259f46e3a46",
+      "code_blocks": 31,
+      "code_payload_sha256": "02f52d0151a89ba7edbad1c8bfca87427acca70bd0bc3a07478a9cd03b7bef60",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 20,
+      "title": "第 20 章 Docker：构建与运行 RustMall",
+      "path": "src/chapters/ch20.md",
+      "sha256": "7b0f85339cb1fafa34ab0afe62b58f60868a15020ea109fac7bfa740b4c2c126",
+      "code_blocks": 21,
+      "code_payload_sha256": "cccbc207e16738b2debe714b51376ed784ade0765da8b5aab1cdec4d28ced3f2",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 21,
+      "title": "第 21 章 Docker Compose：可复现环境",
+      "path": "src/chapters/ch21.md",
+      "sha256": "7f11720bb825d422ca226101cb5219a537f3d4fe6e46b9b2b6c0be4cb11cd79e",
+      "code_blocks": 14,
+      "code_payload_sha256": "dd0d519fb1064140886b21ce07905309db7617eef2c5e9c19cdb65789cf46ed7",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 22,
+      "title": "第 22 章 CI/CD：把一次提交变成有证据的交付",
+      "path": "src/chapters/ch22.md",
+      "sha256": "1157350f32e87fa297f2c699bec9ce06634f848aa26b694ce8142d23b19c627d",
+      "code_blocks": 12,
+      "code_payload_sha256": "f504b0dd0ad084fbe08a6464863ecc88bf781d4f13b6c544ea80ff320f07db52",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 23,
+      "title": "第 23 章 Kubernetes：理解控制循环，再运行 RustMall",
+      "path": "src/chapters/ch23.md",
+      "sha256": "37a9ab1a99d0ddcdd9c0691382b8aec6162221484aa1e66d99dfe87ac2565894",
+      "code_blocks": 21,
+      "code_payload_sha256": "e50bed242afacd2c9f1b8b5f9ba7eefb9069645e7f4131f2729458647f1c3d82",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 24,
+      "title": "第 24 章 Helm 与 GitOps：配置差异与发布来源",
+      "path": "src/chapters/ch24.md",
+      "sha256": "b5c62076444d26d74d0e3d131e9735d6cb0c41a653f70b3d67dc6f49eb4f4369",
+      "code_blocks": 23,
+      "code_payload_sha256": "8becff0cc59395c6709366f43d58f465d17b45e15aab839e9441b5acc06d83f6",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 25,
+      "title": "第 25 章 Protobuf 与 gRPC：通信契约与演进",
+      "path": "src/chapters/ch25.md",
+      "sha256": "e374723d89f0fb2d0f43b4b779abfeb529daefdb1135b45f66a6d069ff87d125",
+      "code_blocks": 11,
+      "code_payload_sha256": "2388a90ab48a30cdeaff50a72456757ee329ddd39b6601a0498cf7a3e5afb4e2",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 26,
+      "title": "第 26 章 微服务拆分：商品服务与数据所有权",
+      "path": "src/chapters/ch26.md",
+      "sha256": "b0ec71c704a6104f73b9ae3e03a6660f6784fde3ac5c85be8ea5a5bcd853238e",
+      "code_blocks": 17,
+      "code_payload_sha256": "341f70b6cda6db765bbde5504c491ffe63dd7fe36b65245762b1656694362284",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 27,
+      "title": "第 27 章 网关、身份与协议边界",
+      "path": "src/chapters/ch27.md",
+      "sha256": "954bbd2d3f2c53eebae61b3f3df268629a33bdedd074191a6310ae27964a43f8",
+      "code_blocks": 19,
+      "code_payload_sha256": "5ca6e2f96b3f5cf196b91b58ec4a2f3fb833b74c1a7c1aabe4262c42b30ecd77",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 28,
+      "title": "第 28 章 Kafka：分区日志与消息消费",
+      "path": "src/chapters/ch28.md",
+      "sha256": "69a2f6e0c9ec739e10fd0776f6f6b17913739bfad952997838e767fc0e4841e7",
+      "code_blocks": 17,
+      "code_payload_sha256": "7c77cbc10aeb8a9d207c427cd6986adf8f13a9f71ba3005f3ed775d0bd99a0e0",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 29,
+      "title": "第 29 章 Outbox 与 Inbox：可靠事件链路",
+      "path": "src/chapters/ch29.md",
+      "sha256": "7e5306e285a9843593139c1d69222e64a349121c2abff6f8b8dd9be188051ad9",
+      "code_blocks": 22,
+      "code_payload_sha256": "e0237ffa43686f04b829e1d03f77ba1ebe1f8487ceb68d0733e045309f0e6c21",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 30,
+      "title": "第 30 章 库存预留：状态机与并发事务",
+      "path": "src/chapters/ch30.md",
+      "sha256": "7500e15f92ca119843f681d97f24b835c9778d8d0feb4d85690ab80f4f331061",
+      "code_blocks": 14,
+      "code_payload_sha256": "76fb541da1f8a90a69cd54fb5ab19bd20b058f7622ce2a5e960a2b7c46304c19",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 31,
+      "title": "第 31 章 库存 RPC：超时后的查询与恢复",
+      "path": "src/chapters/ch31.md",
+      "sha256": "4ceb811be403f0f85c6e0976bf9db99d35630e8aa77b63001b22e57f2666400d",
+      "code_blocks": 16,
+      "code_payload_sha256": "36be136356318aca067a59cf612db3c046d7d463194abeb2a804bb8a7a3d6cd7",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 32,
+      "title": "第 32 章 库存调整：补货、盘亏与幂等收据",
+      "path": "src/chapters/ch32.md",
+      "sha256": "10ff5d2f0cb75efc1fa244359b7bae650478a9a7ac065dec4cc1507dd254cf9e",
+      "code_blocks": 10,
+      "code_payload_sha256": "98e9cdf05f90895a56195a9afd2cee490488897e0033510d65e1110e1d89dbef",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 33,
+      "title": "第 33 章 工程检查点：契约与配置",
+      "path": "src/chapters/ch33.md",
+      "sha256": "8d61fe848fb32f1085de5d9f6d02610c9d6391232c2e49cadda0778a421d5486",
+      "code_blocks": 15,
+      "code_payload_sha256": "fa418e7280a376502e26d4de3c67a9d7737309d319a3656d692465ddb26c74bc",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 34,
+      "title": "第 34 章 独立用户服务与会话生命周期",
+      "path": "src/chapters/ch34.md",
+      "sha256": "f63fa5e7f8f6e77847d720959f543cee5413b67187cbfb1c29cbdf0b0f4c4031",
+      "code_blocks": 22,
+      "code_payload_sha256": "4b871932dbaf93804d8c745e487aa65a789b1fa5f3b554aeb222b3b83e1ca253",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 35,
+      "title": "第 35 章 实验支付：幂等决定与退款屏障",
+      "path": "src/chapters/ch35.md",
+      "sha256": "fcef56f1ec077b3c4f9280926d5ee9d6d411d1ecf7ebe2cfb1158faba276de2f",
+      "code_blocks": 16,
+      "code_payload_sha256": "5789564feab6aa05a6bbc2b44cfac09cc65ba7c16f48bdc876456e93d313da8d",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 36,
+      "title": "第 36 章 持久化订单与可恢复的 Saga",
+      "path": "src/chapters/ch36.md",
+      "sha256": "906112b00e91474b06adab25c4fd45c7157077eba6311d1b79253be147ddf463",
+      "code_blocks": 21,
+      "code_payload_sha256": "11b3bf4f58dc50dcfbc8fc870d3f6e14aba2934ab95a0b3111d9109de06f029f",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 37,
+      "title": "第 37 章 端到端事件链路与读模型重建",
+      "path": "src/chapters/ch37.md",
+      "sha256": "fe9a87024381ca97721d05c8ace2132d8008e5e5463cb1f446d333a25d5e76ee",
+      "code_blocks": 29,
+      "code_payload_sha256": "3d83baf623bf583b1bbb3b4575a9c92077a30d80954ced092ece375e83f61fc7",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 38,
+      "title": "第 38 章 日志、指标、追踪与可操作的告警",
+      "path": "src/chapters/ch38.md",
+      "sha256": "a3185d4f5e2081511f42fe6b1d2edb76c769f51de738235bfd4d98e0e0521dc5",
+      "code_blocks": 28,
+      "code_payload_sha256": "967004207859c77ed747eddcbe15c7bef8baf5db6dc9fd9b9e44330bcc6abfa4",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 39,
+      "title": "第 39 章 超时、速率限制、重试与熔断恢复",
+      "path": "src/chapters/ch39.md",
+      "sha256": "f7cf7f7a269743261e6af97ad4daac9a48318d66168cf64eed5aaf1c228e1186",
+      "code_blocks": 20,
+      "code_payload_sha256": "e992420d6283bfe702a88b9d8e8d0f20ee0358f8c743f9ad171087b22601f7f5",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 40,
+      "title": "第 40 章 把完整微服务项目交付出去：容器、流水线与 Kubernetes",
+      "path": "src/chapters/ch40.md",
+      "sha256": "679327cba6171362e74f72ffd4cea01cf1e14ff6383e23fa945e88ab43e59660",
+      "code_blocks": 31,
+      "code_payload_sha256": "e99a1eb620e3ed56f9f882419bb8f55faff5b18f4e2c17eda4555a12aeeee6f6",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 41,
+      "title": "第 41 章 PostgreSQL 深入：执行计划、快照、锁与可验证恢复",
+      "path": "src/chapters/ch41.md",
+      "sha256": "d2680de6ca20d6c2b315d97445c2ef864864288444741177b878e3465952953a",
+      "code_blocks": 16,
+      "code_payload_sha256": "f333f3f1bc6a63a358bb603e0cf425c02f45cbfa2c703660257332fa3ba48c7d",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 42,
+      "title": "第 42 章 Redis 深入：缓存、原子操作与可靠性",
+      "path": "src/chapters/ch42.md",
+      "sha256": "8b40067d48ce59f31694e954dab5dc0c60c7fd7a4dc9be715e787bc84833381e",
+      "code_blocks": 14,
+      "code_payload_sha256": "be9831ec802cf9c9e40b1f3bfb19cf92b8aaafa3d4239762b73c476481e8164d",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 43,
+      "title": "第 43 章 Kafka 深入：副本、消费恢复与长期运维",
+      "path": "src/chapters/ch43.md",
+      "sha256": "d53622406e823f19096934cb1cbce7d0e5e2bec2ce93724e71fb2ff1f814ee6d",
+      "code_blocks": 8,
+      "code_payload_sha256": "d42e66cfd9be3eb0b120bef181286b0e41d7693c77f0b73e5be8a75fb86f654e",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 44,
+      "title": "第 44 章 Linux、网络、TLS与性能诊断",
+      "path": "src/chapters/ch44.md",
+      "sha256": "7b0b6bad5c1abe1ce078d834342c81a7ccf4ccfbe3f121accede269885e12ad6",
+      "code_blocks": 14,
+      "code_payload_sha256": "5ec15c9bac6f26fa87ab13665d230bf810702de39661ebd9ad6e19eb0fa1ddd7",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 45,
+      "title": "第 45 章 分布式原理：一致性、时间与幂等",
+      "path": "src/chapters/ch45.md",
+      "sha256": "cf268e05ae02855cfc354036f7caec25f4db97a7bf6aa561471d27493f1ae03c",
+      "code_blocks": 10,
+      "code_payload_sha256": "0fa751ba596572dae311a85cc0e390d2987f59e32ce5965d5d726103c247a7b9",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 46,
+      "title": "第 46 章 SRE、备份恢复、对账与长期维护",
+      "path": "src/chapters/ch46.md",
+      "sha256": "c1fb17c24c9653a56c7a8c35f69fdf950d117688d91d9bac6abb8c4d82e1ac1a",
+      "code_blocks": 14,
+      "code_payload_sha256": "b4615e83a521c56a8a3f34d2ab77c385b96448cf0e0b92a7b1441a81f90787f1",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    },
+    {
+      "chapter": 47,
+      "title": "第 47 章 历史迁移、全书验收与项目结业",
+      "path": "src/chapters/ch47.md",
+      "sha256": "f8ad8fc33cf48f24c6cb7c8519923a578d404eb1711a6c4a62929796dd89b6ac",
+      "code_blocks": 15,
+      "code_payload_sha256": "90bfebec6ba169d04cc246d82d87c358eae8c5371bb71e0d1739527ca49d236e",
+      "code_bodies_preserved": true,
+      "source": "matching reviewed Markdown"
+    }
+  ],
+  "source_markdown_sha256": {
+    "第6-18章_校订源稿.md": "81e104cc00e10068a88a9bd0a1a4673e60365127f6f7284342aa499acf1dcdab",
+    "第19-30章_展开源码稿.md": "1ac8310b121b8a89ef23aa7663bda39225293ba6a6a1387e4ce01185bfce2d2c",
+    "第31-40章_展开源码稿.md": "d87236125a9bb10c57a4a2f46482d988b6636a0e6b068558e6c676bf13d059c4",
+    "第41-47章_展开源码稿.md": "ca70b98219e43c507f1603113b5b5cbe11f66dd45d1af277dac87970ecc40d98"
+  },
+  "total_code_blocks": 1372,
+  "matching_source_used": true,
+  "source_pdf_modified": false,
+  "configuration_reference": "https://rust-lang.github.io/mdBook/format/configuration/renderers.html"
+}

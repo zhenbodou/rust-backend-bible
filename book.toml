@@ -1,0 +1,35 @@
+[book]
+title = "Rust 后端开发圣经"
+description = "第 0—47 章：从零基础到分布式微服务与 DevOps"
+language = "zh-CN"
+src = "src"
+
+[build]
+build-dir = "book"
+create-missing = false
+
+[rust]
+edition = "2024"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+smart-punctuation = false
+no-section-label = true
+additional-css = ["theme/custom.css"]
+additional-js = ["theme/chinese-search.js"]
+
+[output.html.playground]
+runnable = false
+copyable = true
+
+[output.html.code]
+hidelines = { rust = "MD_BOOK_NO_HIDDEN_CODE_" }
+
+[output.html.search]
+enable = true
+limit-results = 30
+heading-split-level = 3
+
+[output.html.print]
+enable = false
